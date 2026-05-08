@@ -16,7 +16,7 @@ export default function Home() {
       {/* Message Section */}
       <div className="space-y-4">
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight">
-          Project is <span className="text-blue-500 text-glow">Under Development</span>
+        Capstone Project is <span className="text-blue-500 text-glow">Under Development</span>
         </h1>
         <p className="text-zinc-400 text-lg md:text-xl max-w-lg mx-auto leading-relaxed">
           Ami ekhon amar portfolio ebong projects gulo update korchi. Khub shighroi kichu awesome jinish niye ashchi!
